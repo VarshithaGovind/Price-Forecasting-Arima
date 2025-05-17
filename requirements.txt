@@ -1,0 +1,11 @@
+streamlit
+pandas
+numpy
+matplotlib
+statsmodels
+scikit-learn
+seaborn
+cohere
+langchain
+langchain_core
+pydantic
